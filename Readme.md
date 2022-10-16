@@ -11,6 +11,6 @@
 ## Contribution Rules to this repository 
 
 To contribute to this repository and push a document related to the Predictive Analytics Course:
-> you should name the documents as follow: <session.subsession_number>_<first_name>_<last_name>_<name_of_the_file>
+> you should name the documents as follow: <session.subsession_number>__<first_name>__<last_name>__<name_of_the_file>
 
 Looking forward for your contributions 🚀
